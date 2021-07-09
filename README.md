@@ -1,3 +1,0 @@
-# WaybackAnimateServer
-LVM server for Heroku WA
-Experimenting with Heroku...
